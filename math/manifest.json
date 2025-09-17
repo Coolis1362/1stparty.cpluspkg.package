@@ -1,0 +1,10 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "Official C+ math utilities",
+  "author": "TTS Consulting",
+  "license": "MIT",
+  "source": "official",
+  "files": ["math.h"],
+  "party type": "1st"
+}
